@@ -1,0 +1,2 @@
+//This would be a series of schematic layouts of the circuit diagram of the SolarElectricVehicle designed by the Electrical Department of the Team DTU SMV,the layouts are designed on KiCad software.
+//This would also contain further enhancements on the layout which would increase the efficiency of the circuit, essentially reducing the load on the power source, and the embedded systems part of the vehicle.
